@@ -1,5 +1,5 @@
 audit_header: false
-title: DC Metro Area Real Estate Video Blog with Kristy Moore
+title: DMV Real Estate Journal
 description: Our mission at Local Expert Realty is to be your best resource for DC Metro Area real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Local Expert Realty, your professional DC Metro Area Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -24,7 +24,7 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: Hire@LocalExpertRealty.com
+  email: Kristy@LocalExpertRealty.com
   url: http://LocalExpertRealty.com
 
 CTAs:
@@ -91,8 +91,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#ff3333'
-  theme_color: '#000099'
+  theme_color: '#F26532'
+  brand_color: '#1C3F95'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
