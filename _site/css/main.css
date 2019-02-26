@@ -2515,11 +2515,11 @@ form select {
   .contact-form input[type="submit"] {
     font-size: 1.5rem;
     padding: 1rem;
-    border: 3px solid #1C3F95; }
+    border: 3px solid #F26532; }
     .contact-form input[type="submit"]:hover {
       background: #fff;
       color: #1C3F95;
-      border: 1px solid #1C3F95; }
+      border: 1px solid #F26532; }
 
 .contact {
   font-size: 24px;
@@ -2581,6 +2581,11 @@ form select {
 
 .container-fluid-post {
   background: #fff; }
+
+.contact {
+  color: white; }
+  .contact a {
+    color: white; }
 
 .footer {
   background: #F26532 !important; }
