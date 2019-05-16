@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How We Can Help You in the Home Buying Journey
-date: 2019-05-16 13:46:57
+date: 2019-05-16 13:46:00
 tags:
 excerpt: We’re here to give you the best real estate experience possible. Here’s how.
 enclosure: >-
