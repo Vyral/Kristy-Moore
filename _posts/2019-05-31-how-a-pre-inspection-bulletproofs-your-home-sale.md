@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How a Pre-Inspection Bulletproofs Your Home Sale
-date: 2019-05-31 19:09:28
+date: 2019-05-31 07:09:00
 tags:
   - Home Seller Tips
   - Real Estate
