@@ -9,13 +9,13 @@ excerpt: >-
   If you’re a home seller, the best way to bulletproof your transaction is to
   order a pre-inspection—here’s why.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kristy+Moore/LXR+Real+Estate+Coaching-+How+a+Pre-Inspection+Bulletproofs+Your+Home+Sale.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kristy+Moore/How+a+Pre-Inspection+Bulletproofs+Your+Home+Sale.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: wIFctAFWrM0
+youtube_code: nqbO0tL69j4
 ---
 
 {% include youtube.html %}
