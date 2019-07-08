@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Fast Sales Ineffective in Real Estate?
-date: 2019-07-08 16:45:16
+date: 2019-07-08 04:45:00
 tags:
   - Home Seller Tips
   - Real Estate
