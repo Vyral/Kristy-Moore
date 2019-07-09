@@ -38,7 +38,7 @@ To give you a short answer: No, you aren’t. If you want to learn more about wh
 
 **10:45 -** What happens once you reach the offer deadline
 
-**12:50 -** Why not to let the emotional impact of real estate influence negotiations
+**12:50 -** Why you shouldn't let the emotional impact of real estate influence negotiations
 
 **16:58 -** A few final words
 
