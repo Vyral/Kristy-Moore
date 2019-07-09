@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are Fast Sales Ineffective in Real Estate?
+title: 'If I sell my house too fast, am I leaving money on the table?'
 date: 2019-07-08 04:45:00
 tags:
   - Home Seller Tips
