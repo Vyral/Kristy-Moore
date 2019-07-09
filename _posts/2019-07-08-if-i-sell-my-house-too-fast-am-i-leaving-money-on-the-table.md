@@ -22,7 +22,7 @@ youtube_code: mKTlg1S8c8w
 
 I’m back once again with Harley Dufek to talk about a question we hear all the time: “If I sell my house too fast, am I leaving money on the table?”&nbsp;
 
-To give you a short answer: No, you aren’t. If you want to learn more about why that is, though, you’ll definitely want to watch today’s video.
+The short answer is: it depends on how fast. If you want to learn more about why that is, though, you’ll definitely want to watch today’s video.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
