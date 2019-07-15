@@ -19,6 +19,7 @@ youtube_code: mKTlg1S88w
 ---
 
 [![](/uploads/kristy-moore---july-2019---1---email-smol.jpg){: width="641" height="361"}](https://youtu.be/mKTlg1S8c8w){: target="_blank"}
+
 I’m back once again with Harley Dufek to talk about a question we hear all the time: “If I sell my house too fast, am I leaving money on the table?”&nbsp;
 
 The short answer is: it depends on how fast. If you want to learn more about why that is, though, you’ll definitely want to watch today’s video.
