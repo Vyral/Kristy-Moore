@@ -18,7 +18,7 @@ youtube_alternate_image:
 youtube_code: mKTlg1S88w
 ---
 
-&nbsp; &nbsp; &nbsp; &nbsp;[![](/uploads/kristy-moore---july-2019---1---email-smol.jpg){: width="641" height="361"}](https://youtu.be/mKTlg1S8c8w){: target="_blank"}
+<center> [![](/uploads/kristy-moore---july-2019---1---email-smol.jpg){: width="641" height="361"}](https://youtu.be/mKTlg1S8c8w){: target="_blank"} </center>
 
 I’m back once again with Harley Dufek to talk about a question we hear all the time: “If I sell my house too fast, am I leaving money on the table?”&nbsp;
 
