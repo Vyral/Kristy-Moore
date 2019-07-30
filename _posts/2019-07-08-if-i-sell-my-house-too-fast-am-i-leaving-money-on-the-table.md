@@ -9,16 +9,16 @@ excerpt: >-
   If you sell too quickly, will you really leave money on the table? Let’s
   discuss.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kristy+Moore/LXR+Real+Estate+_+Are+Fast+Sales+Ineffective+in+Real+Estate_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kristy+Moore/LXR+Real+Estate+_+If+I+sell+my+house+too+fast%2C+am+I+leaving+money+on+the+table_+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: mKTlg1S88w
+youtube_code: mKTlg1S8c8w
 ---
 
-&nbsp;
+{% include youtube.html %}
 
 I’m back once again with Harley Dufek to talk about a question we hear all the time: “If I sell my house too fast, am I leaving money on the table?”&nbsp;
 
