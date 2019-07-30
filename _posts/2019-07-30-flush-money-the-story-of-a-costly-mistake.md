@@ -19,7 +19,7 @@ youtube_code: YXN1A7CNvds
 
 {% include youtube.html %}
 
-We love to tell stories about the things that we experience in real estate. I think they’re a really good indication of what happens when you work with someone who doesn’t have the experience you need to avoid costly mistakes when buying or selling a home. Today, my partner Harley \_\_\_\_\_ and I have a story of our own to share that involves one of the properties we bought and renovated. There was a major hiccup in the inspection, but we were fully prepared for it.
+We love to tell stories about the things that we experience in real estate. I think they’re a really good indication of what happens when you work with someone who doesn’t have the experience you need to avoid costly mistakes when buying or selling a home. Today, my partner Harley Dufek and I have a story of our own to share that involves one of the properties we bought and renovated. There was a major hiccup in the inspection, but we were fully prepared for it.
 
 **To hear our story, follow along in the video above or feel free to use the timestamps below to navigate our conversation:**
 
