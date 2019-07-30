@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Flush Money: The Story of a Costly Mistake'
-date: 2019-07-30 18:23:24
+date: 2019-07-30 06:23:00
 tags:
   - Real Estate
 excerpt: >-
