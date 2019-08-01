@@ -23,6 +23,6 @@ We love to tell stories about the things that we experience in real estate. I th
 
 **To hear our story, follow along in the video above or feel free to use the timestamps below to navigate our conversation:**
 
-**0:57**—Why we always recommend that sellers do a pre-inspection<br>**3:39**—The key to massive success is massive failure<br>**4:30**—The story of the sewers<br>**10:13**—Why it’s always important to have quality experts on your side<br>**11:17**—What would have happened if the seller had done a pre-inspection<br>**12:47**—Proper preparation prevents poor performance<br>**13:40**—You give up 80% of your negotiation power once you go under contract.<br>**14:43**—Blacklisting bad inspectors<br>**17:26**—The importance of the right insurance coverage
+**0:57**—Why we always recommend that sellers do a pre-inspection<br>**3:39**—The key to massive success is massive failure<br>**4:30**—The story of the sewers<br>**10:13**—Why it’s always important to have quality experts on your side<br>**11:17**—What would have happened if the seller had done a pre-inspection<br>**12:47**—Proper preparation prevents poor performance<br>**13:40**—You give up 80% of your negotiation power once you go under contract<br>**14:43**—Blacklisting bad inspectors<br>**17:26**—The importance of the right insurance coverage
 
 If you would like more information about buying or selling a home, don’t hesitate to reach out to us.<br>&nbsp;
