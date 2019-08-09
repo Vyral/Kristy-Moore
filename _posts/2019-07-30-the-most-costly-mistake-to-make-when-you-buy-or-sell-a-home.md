@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Flush Money: The Story of a Costly Mistake'
+title: The Most Costly Mistake to Make When You Buy or Sell a Home
 date: 2019-07-30 06:23:00
 tags:
   - Real Estate
