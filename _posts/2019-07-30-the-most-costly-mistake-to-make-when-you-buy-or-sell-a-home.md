@@ -8,13 +8,13 @@ excerpt: >-
   Today, my partner Harley and I will share some stories with you that will help
   you to avoid costly mistakes when selling your house.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kristy+Moore/Kristy+Moore+_+Flush+Money-+The+Story+of+a+Costly+Mistake.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kristy+Moore/The+Most+Costly+Mistake+to+Make+When+You+Buy+or+Sell+a+Home.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: YXN1A7CNvds
+youtube_code: H0yvwbd1Rsg
 ---
 
 {% include youtube.html %}
