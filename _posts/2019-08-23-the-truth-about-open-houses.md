@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Truth About Open Houses
-date:
+date: 2019-08-23 19:02:43
 tags:
 excerpt: >-
   Do open houses still have a place in today’s real estate landscape? Let’s
