@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Truth About Open Houses
-date: 2019-08-23 19:02:43
+date: 2019-08-23 19:02:00
 tags:
 excerpt: >-
   Do open houses still have a place in today’s real estate landscape? Let’s
@@ -24,7 +24,7 @@ Actually, the answer is complicated. While less than 1% of homes sell as a direc
 
 {% include pullquote.html %}
 
-This is because open houses give sellers to really “hype up” their listing. Unlike during showings, when buyers have the opportunity to peruse a house on their own, open houses let them see exactly how much competition they’re up against. And when consumers see that someone else is interested in something they want, your listing becomes a hot commodity.&nbsp;
+This is because open houses give sellers the opportunity to really "hype up" their listing. Unlike during showings, when buyers have the opportunity to peruse a house on their own, open houses let them see exactly how much competition they’re up against. And when consumers see that someone else is interested in something they want, your listing becomes a hot commodity.&nbsp;
 
 **We’ll delve deeper into the efficacy of open houses in the video above, so be sure to follow along to learn more.**
 
