@@ -7,13 +7,13 @@ excerpt: >-
   Do open houses still have a place in today’s real estate landscape? Let’s
   explore this question today.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kristy+Moore/The+Truth+About+Open+Houses.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kristy+Moore/The+Truth+About+Open+Houses+(1).mp4
 pullquote: Open houses give sellers to really “hype up” their listing.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: WC0Ey_nXp2Y
+youtube_code: ZMHJuWW_eGQ
 ---
 
 {% include youtube.html %}
