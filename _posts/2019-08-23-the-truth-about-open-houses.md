@@ -8,7 +8,7 @@ excerpt: >-
   explore this question today.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Kristy+Moore/Kristy+Moore+-+Real+Estate+-+Aug+2019+-+1+-+open+houses+EDIT+3.mp4
-pullquote: Open houses give sellers to really “hype up” their listing.
+pullquote: open houses give sellers the opportunity to really "hype up" their listing
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
