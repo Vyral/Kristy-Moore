@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Home Warranties Are Absolutely Worth the Cost
-date: 2019-09-13 18:52:40
+date: 2019-09-13 18:52:00
 tags:
 excerpt: >-
   Whether you’re a homeowner or a home seller, you should strongly consider
@@ -22,6 +22,4 @@ Follow along in the video above to see our full discussion. We’ve also provide
 
 **1:05—**What a home warranty is<br>**1:59—**What you can use it for&nbsp;<br>**3:21—**How it benefits sellers<br>**4:59—**What it will cost you<br>**6:34—**How you can use home warranties for rental properties&nbsp;<br>**8:44—**A story from one of our own clients about the peace of mind home warranties provide&nbsp;<br>**9:49—**Wrapping things up
 
-As always, if you have any questions about this or any other real estate topic, don’t hesitate to reach out to us. We’d love to help you.&nbsp;<br>&nbsp;
-
-{% include pullquote.html %}
+As always, if you have any questions about this or any other real estate topic, don’t hesitate to reach out to us. We’d love to help you.
