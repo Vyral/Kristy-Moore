@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: vSgWibK1iTc
+youtube_code: _P7jOYxDohs
 ---
 
 {% include youtube.html %}<br><br>What is a home warranty? Should you get one if you’re a homeowner? Do they actually work? We’re always asked these questions, so today we’ll answer them and talk about everything else you need to know about home warranties.
