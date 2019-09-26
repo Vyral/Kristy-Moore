@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should I Get a Home Warranty?
+title: Should I Get A Home Warranty?
 date: 2019-09-13 18:52:00
 tags:
 excerpt: >-
