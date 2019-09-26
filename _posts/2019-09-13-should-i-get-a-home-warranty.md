@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Home Warranties Are Absolutely Worth the Cost
+title: Should I Get a Home Warranty?
 date: 2019-09-13 18:52:00
 tags:
 excerpt: >-
