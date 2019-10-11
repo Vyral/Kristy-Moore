@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paying Lower Commission Doesn’t Necessarily Save You Money
-date:
+date: 2019-10-11 14:56:51
 tags:
 excerpt:
 enclosure: >-
