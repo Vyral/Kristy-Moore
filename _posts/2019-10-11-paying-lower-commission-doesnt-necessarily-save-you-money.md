@@ -30,4 +30,4 @@ The biggest value a true expert adviser gives you is proper preparation and nego
 
 Many negotiations go into a deal. You’re negotiating price, closing costs, the inspection, and the appraisal. When something goes awry, it’s typically going to cost you way more than 1% or 2% of the deal. **If a party on one side of the table is a much stronger negotiator, they’ll steamroll the other side** in their client’s favor, which is, of course, what they should do. So, you will save money in one place hiring an amateur Realtor, but it will end up costing you more later.
 
-We hope you found this helpful, if you have any other questions about buying or selling real estate, feel free to call, text, or email us, we would love to help you\!
+We hope you found this helpful. If you have any other questions about buying or selling real estate, feel free to call, text, or email us, we would love to help you\!
