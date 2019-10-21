@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paying Lower Commission Doesn’t Necessarily Save You Money
+title: How to Negotiate the Best Price When Selling Your Home
 date: 2019-10-11 14:56:00
 tags:
 excerpt: >-
