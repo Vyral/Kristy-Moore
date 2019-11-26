@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Part 1 of My Discussion With Buyer’s Agent Jennifer Donnell
-date: 2019-11-26 22:16:34
+date: 2019-11-26 22:16:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
