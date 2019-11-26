@@ -28,6 +28,4 @@ I recently had the pleasure of sitting down for a conversation with Jennifer Don
 
 0:45 - How to make the right decision for who to work with as a new agent<br>2:05 - Jennifer tells the story of how she got into real estate and some tales from her first year in the business<br>3:30 - How Jennifer’s past job experiences helped her succeed in the real estate business<br>4:55 - The innate personality traits that has allowed Jennifer to thrive in her current role<br>6:45 - The importance of “hustling” as a new agent<br>8:05 - Why having an adversarial relationship with other agents is ultimately a bad idea for you and your clients
 
-Keep an eye out for part two of our conversation, which will be coming at you in just a few weeks. If you have any questions about anything discussed in the video above or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you.<br>&nbsp;
-
-&nbsp;
+Keep an eye out for part two of our conversation, which will be coming at you in just a few weeks. If you have any questions about anything discussed in the video above or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
