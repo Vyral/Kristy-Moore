@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More Insights From Jennifer Donnell
-date: 2020-01-02 16:59:04
+date: 2020-01-01 16:59:00
 tags:
   - Real Estate
 excerpt: >-
