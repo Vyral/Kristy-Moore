@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating the Peaks and Valleys of Real Estate
+title: How to Succeed in Your Real Estate Career
 date: 2020-01-01 16:59:00
 tags:
   - Real Estate
