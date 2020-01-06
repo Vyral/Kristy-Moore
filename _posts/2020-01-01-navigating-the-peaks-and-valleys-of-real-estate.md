@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More Insights From Jennifer Donnell
+title: Navigating the Peaks and Valleys of Real Estate
 date: 2020-01-01 16:59:00
 tags:
   - Real Estate
@@ -34,3 +34,5 @@ If you tuned in to our previous video, you enjoyed the first part of our two-par
 10:41 — Jennifer offers anecdotes of how she overcame her most difficult moments&nbsp;
 
 11:40 — Jennifer shares the three things she’s done over the past year that helped her most
+
+If you have any questions about this topic, don't hesitate to reach out to me. I'd be happy to help.&nbsp;
