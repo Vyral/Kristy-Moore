@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Succeed in Your Real Estate Career
+title: How to Succeed in Real Estate
 date: 2020-01-01 16:59:00
 tags:
   - Real Estate
