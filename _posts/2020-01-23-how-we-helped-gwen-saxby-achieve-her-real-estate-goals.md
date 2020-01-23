@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How We Helped Gwen Saxby Achieve Her Real Estate Goals
-date:
+date: 2020-01-23 20:11:00
 tags:
 excerpt: >-
   Gwen Saxby was relocating and needed to sell quickly. Contrary to what her
