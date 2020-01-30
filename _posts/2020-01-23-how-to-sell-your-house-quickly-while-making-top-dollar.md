@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How We Helped Gwen Saxby Achieve Her Real Estate Goals
+title: How to Sell Your House Quickly While Making Top Dollar
 date: 2020-01-23 20:11:00
 tags:
 excerpt: >-
