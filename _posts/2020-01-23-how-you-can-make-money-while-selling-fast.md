@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How You Can Sell Quickly and for More Money
+title: How You Can Make Money While Selling Fast
 date: 2020-01-23 20:11:00
 tags:
 excerpt: >-
