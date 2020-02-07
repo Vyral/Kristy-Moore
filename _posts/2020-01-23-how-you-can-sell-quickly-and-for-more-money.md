@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Sell Your House Quickly While Making Top Dollar
+title: How You Can Sell Quickly and for More Money
 date: 2020-01-23 20:11:00
 tags:
 excerpt: >-
