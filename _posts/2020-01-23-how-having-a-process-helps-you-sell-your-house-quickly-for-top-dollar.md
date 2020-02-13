@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How You Can Make Money While Selling Fast
+title: How Having a Process Helps You Sell Your House Quickly for Top Dollar
 date: 2020-01-23 20:11:00
 tags:
 excerpt: >-
