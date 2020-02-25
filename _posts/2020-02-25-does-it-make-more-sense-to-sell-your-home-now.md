@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does It Make More Sense to Sell Your Home Now?
-date:
+date: 2020-02-25 19:06:37
 tags:
 excerpt: >-
   If you’re unsure about whether you should list your home now or wait until
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/moore-youtube.jpg
 youtube_code: xQKSSRTAh8g
 ---
 
-{% include youtube.html %}<center>If you’re unsure about whether you should list your home now or wait until later this spring, here’s my advice based on our current market conditions.</center>
+{% include youtube.html %}
+
+<center>If you&rsquo;re unsure about whether you should list your home now or wait until later this spring, here&rsquo;s my advice based on our current market conditions.</center>
+
+&nbsp;
 
 A lot of people ask me if they’re better off selling now or waiting until later in the spring because they want to maximize the amount of money they will get out of their home.
 
