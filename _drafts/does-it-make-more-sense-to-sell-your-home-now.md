@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/moore-youtube.jpg
 youtube_code: xQKSSRTAh8g
 ---
 
-{% include youtube.html %}If you’re unsure about whether you should list your home now or wait until later this spring, here’s my advice based on our current market conditions.
+{% include youtube.html %}<center>If you’re unsure about whether you should list your home now or wait until later this spring, here’s my advice based on our current market conditions.</center>
 
 A lot of people ask me if they’re better off selling now or waiting until later in the spring because they want to maximize the amount of money they will get out of their home.
 
