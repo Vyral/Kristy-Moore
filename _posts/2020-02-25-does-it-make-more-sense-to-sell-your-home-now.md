@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does It Make More Sense to Sell Your Home Now?
-date: 2020-02-25 19:06:37
+date: 2020-02-25 19:06:00
 tags:
 excerpt: >-
   If you’re unsure about whether you should list your home now or wait until
@@ -17,7 +17,7 @@ youtube_code: xQKSSRTAh8g
 
 {% include youtube.html %}
 
-<center>If you&rsquo;re unsure about whether you should list your home now or wait until later this spring, here&rsquo;s my advice based on our current market conditions.</center>
+<center>If you&rsquo;re unsure whether you should list your home now or wait until later this spring, here&rsquo;s my advice based on our current market conditions.</center>
 
 &nbsp;
 
@@ -27,7 +27,7 @@ A lot of people ask me if they’re better off selling now or waiting until late
 
 {% include pullquote.html %}
 
-Right now is when buyers are actively looking and supply is very low. **Without a lot of competition, these buyers are going to be fighting over your property.** Over the weekend, we had two properties in two different areas of town that both receive multiple offers. When inventory is low and demand is high like it is now, you’re going to have more buyers interested in your house, which will eventually lead to the best price.
+Right now is when buyers are actively looking and supply is very low. **Without a lot of competition, these buyers are going to be fighting over your property.** Over the weekend, we had two properties in two different areas of town that both received multiple offers. When inventory is low and demand is high like it is now, you’re going to have more buyers interested in your house, which will eventually lead to the best price.
 
 Also, if you are in a market with a lot of demand, don’t just take the first offer that comes along. We’ve found through a recent survey that if most people took the first offer that came along instead of waiting, they left roughly $36,000 on the table on average. You have to properly position your home for sale and have a strategy for how to handle offers and maximize traffic.
 
