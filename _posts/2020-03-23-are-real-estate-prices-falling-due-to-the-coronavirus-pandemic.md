@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Are Real Estate Prices Falling Due to the Coronavirus Pandemic?
-date: 2020-03-23 14:09:30
+date: 2020-03-23 14:09:00
 tags:
-excerpt:
+excerpt: How the coronavirus has impacted the market
 enclosure:
 pullquote:
 enclosure_type: video/mp4
