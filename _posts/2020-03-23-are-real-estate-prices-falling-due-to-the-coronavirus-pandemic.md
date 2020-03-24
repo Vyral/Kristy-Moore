@@ -15,6 +15,6 @@ youtube_code: lWiCAAa4BDo
 
 {% include youtube.html %}
 
-In light of the uncertainty that has followed the coronavirus pandemic, people in today’s market are very concerned about their home values, the stock market, and the fate of many businesses in general. Despite these trying times, there is some good news: real estate, as of this recording, has largely gone unaffected. We’re still in a very strong seller’s market. To learn more about what to keep in mind as we continue to receive updates about the coronavirus pandemic and its impact on the market, watch this short video.
+In light of the uncertainty that has followed the coronavirus pandemic, people in today’s market are very concerned about their home values, the stock market, and the fate of many businesses in general. Despite these trying times, there is some good news: Real estate, as of this recording, has largely gone unaffected. We’re still in a very strong seller’s market. To learn more about what to keep in mind as we continue to receive updates about the coronavirus pandemic and its impact on the market, watch this short video.
 
 &nbsp;
