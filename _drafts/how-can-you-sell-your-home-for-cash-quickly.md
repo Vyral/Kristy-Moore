@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/moore-youtube-2.jpg
 youtube_code: pIKL8fU30JY
 ---
 
-{% include youtube.html %}Although a cash home sale can seem enticing, it’s important that you know all the facts before starting the process. Here’s what you need to know.
+{% include youtube.html %}<center>Although a cash home sale can seem enticing, it’s important that you know all the facts before starting the process. Here’s what you need to know.</center>
 
 We've been hearing a lot from clients who want to sell their home quickly for cash. Although our team does have a cash home buying program, It’s really important that you understand what that entails before you make a decision, so we’re going to explain it to you today.
 
