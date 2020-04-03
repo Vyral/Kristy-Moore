@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Sell Your Home for Cash Quickly?
-date:
+date: 2020-04-03 15:46:43
 tags:
 excerpt: >-
   Although a cash home sale can seem enticing, it’s important that you know all
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/moore-youtube-2.jpg
 youtube_code: pIKL8fU30JY
 ---
 
-{% include youtube.html %}<center>Although a cash home sale can seem enticing, it’s important that you know all the facts before starting the process. Here’s what you need to know.</center>
+{% include youtube.html %}
+
+<center>Although a cash home sale can seem enticing, it&rsquo;s important that you know all the facts before starting the process. Here&rsquo;s what you need to know.</center>
+
+&nbsp;
 
 We've been hearing a lot from clients who want to sell their home quickly for cash. Although our team does have a cash home buying program, It’s really important that you understand what that entails before you make a decision, so we’re going to explain it to you today.
 
