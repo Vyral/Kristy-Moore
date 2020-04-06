@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Sell Your Home for Cash Quickly?
-date: 2020-04-03 15:46:43
+date: 2020-04-03 15:46:00
 tags:
 excerpt: >-
   Although a cash home sale can seem enticing, it’s important that you know all
@@ -21,7 +21,7 @@ youtube_code: pIKL8fU30JY
 
 &nbsp;
 
-We've been hearing a lot from clients who want to sell their home quickly for cash. Although our team does have a cash home buying program, It’s really important that you understand what that entails before you make a decision, so we’re going to explain it to you today.
+We've been hearing a lot from clients who want to sell their home quickly for cash. Although our team does have a cash home buying program, you need to understand what that entails before you make a decision, so we’re going to explain it to you today.
 
 **Here’s an outline of our discussion, with timestamps so that you can skip around to the section(s) that interest you most:**
 
