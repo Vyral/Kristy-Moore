@@ -27,8 +27,6 @@ We've been hearing a lot from clients who want to sell their home quickly for ca
 
 0:35- Who typically benefits most from a cash home sale?
 
-1:15- Why Zillow’s “Instant Offer” program isn’t available in our area
-
 2:10- Why the initial offer you get from a cash homebuyer isn’t always what it seems
 
 4:20- How we can connect you to reputable cash buyers in our area, and why you should sell your home for cash “as is”
