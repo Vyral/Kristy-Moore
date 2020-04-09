@@ -27,15 +27,15 @@ We've been hearing a lot from clients who want to sell their home quickly for ca
 
 0:35- Who typically benefits most from a cash home sale?
 
-2:10- Why the initial offer you get from a cash homebuyer isn’t always what it seems
+0:49- Why the initial offer you get from a cash homebuyer isn’t always what it seems
 
-4:20- How we can connect you to reputable cash buyers in our area, and why you should sell your home for cash “as is”
+2:00- How we can connect you to reputable cash buyers in our area, and why you should sell your home for cash “as is”
 
-5:10- Warning signs of a “bad” cash homebuyer
+4:12- Warning signs of a “bad” cash homebuyer
 
-5:40- What is the formula for cash homebuyers when making an offer?
+4:50- What is the formula for cash homebuyers when making an offer?
 
-6:45- Wrapping things up
+5:55- Wrapping things up
 
 If you have any questions for us about selling your house for cash, or anything else related to real estate, don’t hesitate to reach out via phone or email today. We look forward to hearing from you.
 
