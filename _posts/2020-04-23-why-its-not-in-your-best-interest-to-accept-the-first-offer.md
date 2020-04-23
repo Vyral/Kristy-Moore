@@ -21,7 +21,7 @@ youtube_code: XxnTWyQAQ8k
 
 {% include youtube.html %}
 
-Though it might seem tempting, accepting the first offer you get on your house usually means leaving money on the table.
+<p style="text-align: center;"><em>Though it might seem tempting, accepting the first offer you get on your house usually means leaving money on the table.</em></p>
 
 Should you accept the first offer you get on your house?
 
