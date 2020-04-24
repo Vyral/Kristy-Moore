@@ -31,7 +31,7 @@ In any case, **we advise against automatically accepting your first offer.** Eve
 
 If you receive an offer right after listing your home, that’s a sure sign that other offers will soon follow. Sometimes in this situation, buyer’s agents will give our clients a deadline to respond to their offers or present their offers directly to our clients because they know the property is most likely getting multiple offers.&nbsp;
 
-Within our company, we’ve found that **clients leave an average $26,000 on the table by accepting the first offer—even if that offer was over asking price.** It seems logical to accept your first offer if it’s a cash offer or over asking price, but you’ll lose money if you don’t have a strategy for marketing your property and dealing with offers. If you take too long to review them, you’ll lose out on interested buyers. If you don’t spend enough time reviewing them, you’re not allowing enough people to come through your property in order to get the best price.
+Within our company, we’ve found that **clients leave an average of $26,000 on the table by accepting the first offer—even if that offer was over asking price.** It seems logical to accept your first offer if it’s a cash offer or over asking price, but you’ll lose money if you don’t have a strategy for marketing your property and dealing with offers. If you take too long to review them, you’ll lose out on interested buyers. If you don’t spend enough time reviewing them, you’re not allowing enough people to come through your property in order to get the best price.
 
 {% include pullquote.html %}
 
