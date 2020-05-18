@@ -18,7 +18,7 @@ youtube_code: mOcta_sQasE
 
 {% include youtube.html %}
 
-When Stevi and Phil were first-time homebuyers, we were delighted to help.
+<p style="text-align: center;"><em>When Stevi and Phil were first-time homebuyers, we were delighted to help.</em></p>
 
 Stevi and Phil Achee contacted us about buying their first home. According to Stevi, it was the best decision they ever made\! We helped them form a plan of action, execute it, and find and close on their dream home.
 
