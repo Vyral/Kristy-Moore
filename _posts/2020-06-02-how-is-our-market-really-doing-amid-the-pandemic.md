@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Is Our Market Really Doing Amid the Pandemic?
-date: 2020-06-02 21:02:53
+date: 2020-06-02 21:02:00
 tags:
   - Market Update
 excerpt: 'Here’s where are market’s really at, according to the latest numbers.'
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: TFQWzbW1VfU
 ---
 
 {% include youtube.html %}
