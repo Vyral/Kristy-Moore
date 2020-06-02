@@ -16,7 +16,7 @@ youtube_code: TFQWzbW1VfU
 
 {% include youtube.html %}
 
-Here’s where are market’s really at, according to the latest numbers.
+<p style="text-align: center;"><em>Here’s where are market’s really at, according to the latest numbers.</em></p>
 
 Today I’ll answer the No. 1 question on everyone’s minds: How is our real estate market really doing? From a supply and demand standpoint, the market is healthy. Now that we’re into June, though, that can change quickly, so I’ll go over the latest stats from each marketplace we cover. Specifically, I’ll share the number of sales, the absorption rate, and inventory of each area and explain what they indicate.&nbsp;&nbsp;
 
