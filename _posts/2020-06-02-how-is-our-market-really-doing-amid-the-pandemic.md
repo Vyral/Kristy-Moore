@@ -5,7 +5,7 @@ date: 2020-06-02 21:02:00
 tags:
   - Market Update
 excerpt: 'Here’s what our market's doing, according to the latest numbers.'
-enclosure: .-
+enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Kristy+Moore/2020/Kristy+Moore+How+Is+the+Market+Really+Doing+(1).mp4
 pullquote:
 enclosure_type: video/mp4
