@@ -5,7 +5,8 @@ date: 2020-06-18 18:09:47
 tags:
   - Home Seller Tips
 excerpt: Amid COVID-19 homes are still selling virtually. Here’s how.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kristy+Moore/2020/Kristy+Moore+How+to+Sell+Your+Home+Virtually.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
