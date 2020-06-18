@@ -16,7 +16,7 @@ youtube_code: ml8JX0oSzGQ
 
 {% include youtube.html %}
 
-Amid COVID-19 homes are still selling virtually. Here’s how.
+<p style="text-align: center;"><em>Amid COVID-19 homes are still selling virtually. Here’s how.</em></p>
 
 Things are changing in the real estate industry, so how can you sell your home virtually? We have many overseas and military buyers, so we’ve been helping clients virtually for years. However, much of the real estate process has been altered due to the pandemic and may never go back to exactly as it was. Agents are now putting plans in place to continue helping clients but also keep everyone healthy and safe.
 
