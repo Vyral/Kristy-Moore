@@ -17,7 +17,7 @@ youtube_code: 0g39XDu5eqM
 
 {% include youtube.html %}
 
-To get started investing in real estate, you need to know a few things.
+<p style="text-align: center;"><em>To get started investing in real estate, you need to know a few things.</em></p>
 
 How should you get started investing in real estate? The very first thing you need to consider is your goal; why do you want to invest in real estate? Your goal determines all the future steps in investing. Today we’re discussing what you need to know to start investing in real estate the right way.
 
