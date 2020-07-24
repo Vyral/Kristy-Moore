@@ -17,7 +17,7 @@ youtube_code: h2r7OZ8Lm1U
 
 {% include youtube.html %}
 
-Here are three basic tips to ensure your home sells for more money.
+<p style="text-align: center;"><em>Here are three basic tips to ensure your home sells for more money.</em></p>
 
 If you’re a homeowner who’s thinking about selling your house, there are a few basic things that you need to do with your property before you sell it. We won’t go through the whole list—that’s part of our room-by-room review—but we can give you a few helpful tips.
 
