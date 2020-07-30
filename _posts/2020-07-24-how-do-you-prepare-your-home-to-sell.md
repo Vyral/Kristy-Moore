@@ -6,13 +6,13 @@ tags:
   - Home Seller Tips
 excerpt: Here are three basic tips to ensure your home sells for more money.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kristy+Moore/2020/Kristy+Moore+How+to+Prepare+Your+Home+to+Sell.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kristy+Moore/2020/Kristy+Moore+How+to+Prepare+Your+Home+to+Sell+2.mp4
 pullquote: Buyers make decisions based on emotions.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: h2r7OZ8Lm1U
+youtube_code: xtv3VXc_JDc
 ---
 
 {% include youtube.html %}
