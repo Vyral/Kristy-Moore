@@ -5,7 +5,8 @@ date: 2020-08-19 12:52:27
 tags:
   - Home Buyer Tips
 excerpt: Here are the three steps all first-time buyers must take before purchasing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kristy+Moore/2020/Kristy+Moore+Steps+for+Buying+Your+First+Home.mp4
 pullquote: >-
   If you’re buying in a panic, you might not make the best decision and get
   everything you want out of your new home.
@@ -18,7 +19,7 @@ youtube_code: _ibO_QQQvPw
 
 {% include youtube.html %}
 
-Here are the three steps all first-time buyers must take before purchasing.
+<p style="text-align: center;"><em>Here are the three steps all first-time buyers must take before purchasing.</em></p>
 
 If you’re thinking of buying your first home, there are three steps you need to take to ensure you have a smooth, successful purchase.&nbsp;
 
